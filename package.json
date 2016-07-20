@@ -1,0 +1,24 @@
+{
+  "name": "the-game-for-messenger",
+  "version": "1.0.0",
+  "description": "The Game For Messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briaguya/the-game-for-messenger.git"
+  },
+  "keywords": [
+    "bot",
+    "game",
+    "messenger"
+  ],
+  "author": "Brian Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briaguya/the-game-for-messenger/issues"
+  },
+  "homepage": "https://github.com/briaguya/the-game-for-messenger#readme"
+}
